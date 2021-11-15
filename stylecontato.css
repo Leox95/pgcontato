@@ -23,7 +23,7 @@ nav li{
     display: inline;
     margin: 0 0 0 15px;
 }
-.links{
+a{
     color: white;
     font-weight: bold;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -31,6 +31,7 @@ nav li{
     font-size: 30px;
     display: inline-block;
 }
+
 h1{
     font-size: 45px;
     color: white;
@@ -44,5 +45,33 @@ h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     margin-top: 1em;
+}
+.seta{
+    display: block;
+    color: white;
+    text-align: center;
+    margin: 20px 0 20px 0;
+}
+form{
+    display: block;
+    color: white;
+    text-align: center;
+    margin: 2em 0 0 0;
+}
+.albotao{
+    text-align: center;
+    margin-top: 1em;
+
+}
+.botao{
+    align-items: center;
+    background-color: white;
+    color: black;
+    border:blanchedalmond;
+    width: 20%;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
 }
 
